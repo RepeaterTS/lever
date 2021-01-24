@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-lever",
+  "version": "0.0.1",
+  "description": "A javscript framework to run your bots at a pull of the lever.",
+  "main": "dist/src/index.js",
+  "repository": "https://github.com/RepeaterTS/lever",
+  "author": "Jordan Jones <jordpjones@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  }
+}
